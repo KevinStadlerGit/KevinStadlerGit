@@ -1,6 +1,12 @@
+<p align="center">
+  <img src="./icons/header.png" alt="Header" width="100%" />
+</p>
+
 Hi! I'm Kevin
 
 ###
+
+## Developer  
 
 <h3> Frontend</h3>
 <p align="left">
