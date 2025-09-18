@@ -1,10 +1,12 @@
-
+<head>
 <style>
     h3 {
         color: #648276;
     }
 </style>
+</head>
 
+<body>
 <p align="center">
     <img src="./icons/header.png" alt="Header" width="100%" />
 </p>
@@ -45,4 +47,4 @@ Hi! I'm Kevin from Austria
     <img src="./icons/linkedin.png" width="32" height="32" alt="LinkedIn" />
 </a>
 
-###
+</body>
