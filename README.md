@@ -14,7 +14,7 @@ Hi! I'm Kevin
 <h3> Backend</h3>
 <p align="left">
   <img src="./icons/csharp.png" height="32" alt="Csharp" />
-  <img src="./icons/java.png.png" height="32" alt="java" />
+  <img src="./icons/java.png" height="32" alt="java" />
   <img src="./icons/go.png" height="32" alt="golang" />
   <img src="./icons/mssql.png" height="32" alt="mssql" />
 </p>
