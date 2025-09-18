@@ -6,9 +6,9 @@ Hi! I'm Kevin
 
 ###
 
-## Developer  
+## <p color=#648276>Developer</p>  
 
-<h3> Frontend</h3>
+<h3 color=#648276> Frontend</h3>
 <p align="left">
   <img src="./icons/html.png" height="32" alt="HTML" style="margin-right:8px;" title="html"/>
   <img src="./icons/css.png" height="32" alt="CSS" style="margin-right:8px;" title="CSS"/>
@@ -16,7 +16,7 @@ Hi! I'm Kevin
   <img src="./icons/ts.png" height="32" alt="TypeScript" style="margin-right:8px;" title="TS"/>
 </p>
 
-<h3> Backend</h3>
+<h3 color=#648276> Backend</h3>
 <p align="left">
   <img src="./icons/csharp.png" height="32" alt="Csharp" title="csharp"/>
   <img src="./icons/java.png" height="32" alt="java" title="java"/>
@@ -24,7 +24,7 @@ Hi! I'm Kevin
   <img src="./icons/mssql.png" height="32" alt="mssql" title="mssql"/>
 </p>
 
-<h3> Dev-Tools</h3>
+<h3 color=#648276> Dev-Tools</h3>
 <p align="left">
   <img src="./icons/git.png" height="32" alt="Git" title="git"/>
   <img src="./icons/jira.png" height="32" alt="Jira" title="Jira"/>
@@ -32,7 +32,7 @@ Hi! I'm Kevin
 
 ###
 
-##  Contact
+##  <p color=#648276>Contact</p>
 
   <a href="https://www.linkedin.com/in/kevin-stadler-95b487276/" target="_blank" title="Mein LinkedIn-Profil" style="text-decoration: none">
     <img src="./icons/linkedin.png" width="32" height="32" alt="LinkedIn" />
