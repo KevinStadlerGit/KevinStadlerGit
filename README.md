@@ -6,23 +6,23 @@ Hi! I'm Kevin
 
 <h3> Frontend</h3>
 <p align="left">
-  <img src="./icons/html.png" height="32" alt="HTML" style="margin-right:8px;" />
-  <img src="./icons/css.png" height="32" alt="CSS" style="margin-right:8px;" />
-  <img src="./icons/js.png" height="32" alt="JavaScript" style="margin-right:8px;" />
+  <img src="./icons/html.png" height="32" alt="HTML" style="margin-right:8px;" title="html"/>
+  <img src="./icons/css.png" height="32" alt="CSS" style="margin-right:8px;" title="CSS"/>
+  <img src="./icons/js.png" height="32" alt="JavaScript" style="margin-right:8px;" title="JS"/>
 </p>
 
 <h3> Backend</h3>
 <p align="left">
-  <img src="./icons/csharp.png" height="32" alt="Csharp" />
-  <img src="./icons/java.png" height="32" alt="java" />
-  <img src="./icons/go.png" height="32" alt="golang" />
-  <img src="./icons/mssql.png" height="32" alt="mssql" />
+  <img src="./icons/csharp.png" height="32" alt="Csharp" title="csharp"/>
+  <img src="./icons/java.png" height="32" alt="java" title="java"/>
+  <img src="./icons/go.png" height="32" alt="golang" title="golang"/>
+  <img src="./icons/mssql.png" height="32" alt="mssql" title="mssql"/>
 </p>
 
 <h3> Dev-Tools</h3>
 <p align="left">
-  <img src="./icons/git.png" height="32" alt="Git" />
-  <img src="./icons/jira.png" height="32" alt="Jira" />
+  <img src="./icons/git.png" height="32" alt="Git" title="git"/>
+  <img src="./icons/jira.png" height="32" alt="Jira" title="Jira"/>
 </p>
 
 ###
