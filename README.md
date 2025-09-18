@@ -2,13 +2,12 @@ Hi! I'm Kevin
 
 ###
 
-## Preferred Tech Stack
-
 <h3> Frontend</h3>
 <p align="left">
   <img src="./icons/html.png" height="32" alt="HTML" style="margin-right:8px;" title="html"/>
   <img src="./icons/css.png" height="32" alt="CSS" style="margin-right:8px;" title="CSS"/>
   <img src="./icons/js.png" height="32" alt="JavaScript" style="margin-right:8px;" title="JS"/>
+  <img src="./icons/ts.png" height="32" alt="TypeScript" style="margin-right:8px;" title="TS"/>
 </p>
 
 <h3> Backend</h3>
