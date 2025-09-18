@@ -1,6 +1,9 @@
-h3 {
-    color: #648276;
-}
+
+<style>
+    h3 {
+        color: #648276;
+    }
+</style>
 
 <p align="center">
     <img src="./icons/header.png" alt="Header" width="100%" />
