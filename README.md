@@ -3,16 +3,15 @@
 </p>
 
 <p align="center">
-    👋 # Kevin Stadler — Full-Stack Developer (AT)
+    👋 Kevin Stadler — Full-Stack Developer (AT)
     <br>
     <div align="center">
         <p align="center">
-            <a>👉</a>
-            <a href="https://www.linkedin.com/in/kevin-stadler-95b487276/">
-                <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+            <a href="https://www.linkedin.com/in/kevin-stadler-95b48726/" target="_blank" rel="noopener noreferrer">
+                <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
             </a>
             <a href="mailto:kevin.stadler91@gmail.com">
-                <img alt="E-Mail" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+                <img alt="E-Mail" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
             </a>
         </p>
     </div>
