@@ -6,7 +6,6 @@
   :wave: Hi! Hi! I'm Kevin from Austria.
   <br /><br />
   My mission: have fun with developing. :tada:
-  <br /><br />
 
 ###
 
@@ -38,6 +37,11 @@
 
 ##  Contact
 
-<a href="https://www.linkedin.com/in/kevin-stadler-95b487276/" target="_blank" title="Mein LinkedIn-Profil" style="text-decoration: none">
+<!-- <a href="https://www.linkedin.com/in/kevin-stadler-95b487276/" target="_blank" title="Mein LinkedIn-Profil">
+    <img src="./icons/linkedin.png" width="32" height="32" alt="LinkedIn" />
+    <img src=>
+</a> -->
+
+<a href="https://www.linkedin.com/in/kevin-stadler-95b487276" target="_blank" title="Mein LinkedIn-Profil" style="text-decoration: none">
     <img src="./icons/linkedin.png" width="32" height="32" alt="LinkedIn" />
 </a>
