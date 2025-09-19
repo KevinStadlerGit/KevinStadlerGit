@@ -1,11 +1,19 @@
 <p align="center">
-    <img src="./icons/header.png" alt="Header" width="100%" />
+    <img src="./icons/header.png" alt="Header" width="100%" titles="Kevin Stadler header"/>
 </p>
 
 <p align="center">
-  :wave: Hi! Hi! I'm Kevin from Austria.
-  <br /><br />
-  My mission: have fun with developing. :tada:
+    :wave: Hi! Hi! I'm Kevin from Austria.
+    <br /><br />
+    My mission: have fun with developing. :tada:
+
+###
+
+## Company
+
+<p align="left">
+    <img src="./icons/smc.png" height="32" alt="HTML" style="margin-right:8px;" title="SMC"/>
+</p>
 
 ###
 
@@ -35,13 +43,17 @@
 
 ###
 
+##  GitHub Stats
+
+<div align="center" style="margin-bottom: 48px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=KevinKovacDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KevinStadlerGit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
 ##  Contact
 
-<!-- <a href="https://www.linkedin.com/in/kevin-stadler-95b487276/" target="_blank" title="Mein LinkedIn-Profil">
-    <img src="./icons/linkedin.png" width="32" height="32" alt="LinkedIn" />
-    <img src=>
-</a> -->
-
 <a href="https://www.linkedin.com/in/kevin-stadler-95b487276" target="_blank" title="Mein LinkedIn-Profil" style="text-decoration: none">
-    <img src="./icons/linkedin.png" width="32" height="32" alt="LinkedIn" />
+    <img src="./icons/linkedin.png" width="32" height="32" alt="LinkedIn" tilte="Linkedin"/>
 </a>
