@@ -37,7 +37,7 @@
 
 <h3> Backend</h3>
 <p align="left">
-    <img src="./icons/csharp.png" height="32" alt="Csharp" title="csharp"/>
+    <img src="./icons/csharp.png" height="32" alt="Csharp" title="csharp" style="padding:6px;border:1px solid #fff;border-radius:10px;background:#fff;"/>
     <img src="./icons/java.png" height="32" alt="java" title="java"/>
     <img src="./icons/go.png" height="32" alt="golang" title="golang"/>
     <img src="./icons/mssql.png" height="32" alt="mssql" title="mssql"/>
