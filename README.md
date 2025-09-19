@@ -3,10 +3,12 @@
 </p>
 
 <p align="center">
-    :wave: # Kevin Stadler — Full-Stack Developer (AT)
+    👋 # Kevin Stadler — Full-Stack Developer (AT)
     <br>
-    👉 [LinkedIn](https://www.linkedin.com/in/kevin-stadler) • [E-Mail](mailto:kevin.stadler91@gmail.com)
-    <br>
+    <div align="center">
+        👉 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-stadler-95b487276)
+        [![E-Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevin.stadler91@gmail.com)
+    </div>
 
 ###
 ## Company
@@ -17,24 +19,28 @@
 
 ###
 ## Tech-Stack
-**Frontend:** html
+
+<h3> Frontend</h3>
 <p align="left">
-    <img src="./icons/html.png" height="32" alt="HTML" style="margin-right:8px;" title="SMC"/>
-</p>, CSS
-<p align="left">
-    <img src="./icons/css.png" height="32" alt="HTML" style="margin-right:8px;" title="SMC"/>
-</p>, JavaScript
-<p align="left">
-    <img src="./icons/js.png" height="32" alt="HTML" style="margin-right:8px;" title="SMC"/>
+    <img src="./icons/html.png" height="32" alt="HTML" style="margin-right:8px;" title="html"/>
+    <img src="./icons/css.png" height="32" alt="CSS" style="margin-right:8px;" title="CSS"/>
+    <img src="./icons/js.png" height="32" alt="JavaScript" style="margin-right:8px;" title="JS"/>
+    <img src="./icons/ts.png" height="32" alt="TypeScript" style="margin-right:8px;" title="TS"/>
 </p>
 
-**Backend:** .NET (C#), Java, Go  
-**DB/Infra:** MS-SQL, Docker
-**Tools:** Git, Jira, GitHub Actions
+<h3> Backend</h3>
+<p align="left">
+    <img src="./icons/csharp.png" height="32" alt="Csharp" title="csharp"/>
+    <img src="./icons/java.png" height="32" alt="java" title="java"/>
+    <img src="./icons/go.png" height="32" alt="golang" title="golang"/>
+    <img src="./icons/mssql.png" height="32" alt="mssql" title="mssql"/>
+</p>
 
-###
-## Aktuell lerne ich
-Pascal (Delphi)
+<h3> Dev-Tools</h3>
+<p align="left">
+    <img src="./icons/git.png" height="32" alt="Git" title="git"/>
+    <img src="./icons/jira.png" height="32" alt="Jira" title="Jira"/>
+</p>
 
 ###
 ##  GitHub Stats
