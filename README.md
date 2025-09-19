@@ -6,7 +6,7 @@ Hi! I'm Kevin from Austria
 
 ###
 
-## <span style="color:#648276">Developer</span>
+## Developer
 
 <h3> Frontend</h3>
 <p align="left">
@@ -32,7 +32,7 @@ Hi! I'm Kevin from Austria
 
 ###
 
-##  <span style="color:#648276">Contact</span>
+##  Contact
 
 <a href="https://www.linkedin.com/in/kevin-stadler-95b487276/" target="_blank" title="Mein LinkedIn-Profil" style="text-decoration: none">
     <img src="./icons/linkedin.png" width="32" height="32" alt="LinkedIn" />
