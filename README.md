@@ -7,7 +7,7 @@
     <br>
     <div align="center">
         <p align="center">
-            <a href="https://www.linkedin.com/in/kevin-stadler-95b48726/" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.linkedin.com/in/kevin-stadler-95b487276/" target="_blank" rel="noopener noreferrer">
                 <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
             </a>
             <a href="mailto:kevin.stadler91@gmail.com">
@@ -21,7 +21,7 @@
 ## Company
 
 <p align="left">
-    <img src="./icons/smc.png" height="32" alt="HTML" style="margin-right:8px;" title="SMC"/>
+    <img src="./icons/smc.png" height="32" alt="SMC" style="margin-right:8px;" title="SMC"/>
 </p>
 
 ###
