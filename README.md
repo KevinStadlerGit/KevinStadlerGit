@@ -2,7 +2,11 @@
     <img src="./icons/header.png" alt="Header" width="100%" />
 </p>
 
-Hi! I'm Kevin from Austria
+<p align="center">
+  :wave: Hi! Hi! I'm Kevin from Austria.
+  <br /><br />
+  My mission: have fun with developing. :tada:
+  <br /><br />
 
 ###
 
